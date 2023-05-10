@@ -1,0 +1,24 @@
+{
+  "name": "vc-ld-json-pointer-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node generate.js",
+    "shove": "git add -A ; git commit -m ':rainbow::rocket:' ; git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/vc-ld-json-pointer-csv.git"
+  },
+  "author": "Orie Steele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/vc-ld-json-pointer-csv/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/vc-ld-json-pointer-csv#readme",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "json-pointer": "^0.6.2"
+  }
+}
