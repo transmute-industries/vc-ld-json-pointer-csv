@@ -1,4 +1,6 @@
-## Verifiable Credentials as CSVs
+# Verifiable Credentials as CSVs
+
+## vc -> json-pointer.dict -> csv
 
 ### application/vc+ld+json
 
@@ -46,7 +48,7 @@
 }
 ```
 
-## vc -> json-pointer.dict -> csv
+
 
 ### application/vc+ld+json+csv
 
