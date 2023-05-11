@@ -1,6 +1,6 @@
 # Verifiable Credentials as CSVs
 
-<img src="./transmute-banner.png" />
+[<img src="./transmute-banner.png" />](https://transmute.industries)
 
 #### [Questions? Contact Transmute](https://transmute.typeform.com/to/RshfIw?typeform-source=vc-ld-json-pointer-csv)
 
