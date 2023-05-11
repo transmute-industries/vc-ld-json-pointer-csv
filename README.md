@@ -46,6 +46,8 @@
 }
 ```
 
+## vc -> json-pointer.dict -> csv
+
 ### application/vc+ld+json+csv
 
 ```csv
